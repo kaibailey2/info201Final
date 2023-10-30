@@ -28,38 +28,38 @@ Second Data Source: [Affordable Housing Data](https://data-wa-geoservices.openda
 <br>
 
 # Background Research/Inspiration
-1)  [Black Home Initiative](https://www.blackhomeinitiative.org/the-work)
+1. [Black Home Initiative](https://www.blackhomeinitiative.org/the-work)
     <br>
-        *  My project aims to visualize the data to help more people understand the severity of the problem which aligns with this organization's initiative.
+        * My project aims to visualize the data to help more people understand the severity of the problem which aligns with this organization's initiative.
     <br>
-        *  While I won't be getting into the specific solutions for the issue like the BHI does, I will highlight specific areas of Seattle that may be of interest in order to put the plan into action.
-    <br>
-
-2)  [Challenge Seattle](https://challengeseattle.com/affordable-housing#:~:text=In%202019%2C%20Challenge%20Seattle%20hired,were%20burdened%20by%20housing%20costs.)
-    <br>
-        *  Challenge Seattle is an initiative that looks at the affordable housing crisis and makes use of different visualizations to convey their data, much like I plan to do with my project.
-    <br>
-        *  One way my project will differ will be through a more specific look at Seattle's census tracts as the map of Challenge Seattle looks at broader, state-wide county data.
+        * While I won't be getting into the specific solutions for the issue like the BHI does, I will highlight specific areas of Seattle that may be of interest in order to put the plan into action.
     <br>
     
-3)  [Daily UW](https://www.dailyuw.com/opinion/a-portrait-of-seattle-s-affordable-housing-crisis/article_614476ca-f2e6-11ed-a992-e7ce3f1a9368.html)
+2. [Challenge Seattle](https://challengeseattle.com/affordable-housing#:~:text=In%202019%2C%20Challenge%20Seattle%20hired,were%20burdened%20by%20housing%20costs.)
     <br>
-        *  The Daily UW wrote this amazing article on insane rent costs in Seattle that inspired me for this project. Much like this article, I plan to address the public interest of the issue.
+        * Challenge Seattle is an initiative that looks at the affordable housing crisis and makes use of different visualizations to convey their data, much like I plan to do with my project.
     <br>
-        *  I intend to look at this topic one step further by looking at census tracts with a high percentage of minority residents to see how they are affected by the affordable housing crisis.
+        * One way my project will differ will be through a more specific look at Seattle's census tracts as the map of Challenge Seattle looks at broader, state-wide county data.
     <br>
-
-4)  [Gentrification Displacement in Seattle](https://storymaps.arcgis.com/stories/2f0792826dc14e0b99d04fc4c0142a3c)
+    
+3. [Daily UW](https://www.dailyuw.com/opinion/a-portrait-of-seattle-s-affordable-housing-crisis/article_614476ca-f2e6-11ed-a992-e7ce3f1a9368.html)
     <br>
-        *  This story map on ArcGIS provides great inspiration for a public-facing application that can help guide me for the final project as it deals with similar data and topics.
+        * The Daily UW wrote this amazing article on insane rent costs in Seattle that inspired me for this project. Much like this article, I plan to address the public interest of the issue.
     <br>
-        *  I will be focusing less on change over time like this map and looking at the current state of affordable housing and home ownership.
+        * I intend to look at this topic one step further by looking at census tracts with a high percentage of minority residents to see how they are affected by the affordable housing crisis.
     <br>
-
-5)  [Multi-Family Housing](https://www.sightline.org/2017/08/30/map-where-multi-family-homes-make-seattle-neighborhoods-more-affordable/)
+    
+4. [Gentrification Displacement in Seattle](https://storymaps.arcgis.com/stories/2f0792826dc14e0b99d04fc4c0142a3c)
     <br>
-        *  This article and interactive map also provide inspiration for how I can format my project and make it more interactive.
+        * This story map on ArcGIS provides great inspiration for a public-facing application that can help guide me for the final project as it deals with similar data and topics.
     <br>
-        *  I will not be diving into this specific of a topic and will most likely refrain from using proportional dot symbols for my visualizations.
+        * I will be focusing less on change over time like this map and looking at the current state of affordable housing and home ownership.
+    <br>
+    
+5. [Multi-Family Housing](https://www.sightline.org/2017/08/30/map-where-multi-family-homes-make-seattle-neighborhoods-more-affordable/)
+    <br>
+        * This article and interactive map also provide inspiration for how I can format my project and make it more interactive.
+    <br>
+        * I will not be diving into this specific of a topic and will most likely refrain from using proportional dot symbols for my visualizations.
     <br>
    
