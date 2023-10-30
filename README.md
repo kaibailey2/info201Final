@@ -29,10 +29,10 @@ Second Data Source: [Affordable Housing Data](https://data-wa-geoservices.openda
 
 # Background Research/Inspiration
 1)  [Black Home Initiative](https://www.blackhomeinitiative.org/the-work)
-<br>
-        -  This organization gives an in-depth look at how to help Black households increase wealth through a 7-step plan. My project aims to visualize the data to help more people understand the severity of the problem.
-<br>
-        -  While I won't be getting into the specific solutions for the issue like the BHI does, I will be able to highlight specific areas of Seattle that may be of interest in order to put the plan into action.
+    <br>
+        -  My project aims to visualize the data to help more people understand the severity of the problem which aligns with this organization's initiative.
+    <br>
+        -  While I won't be getting into the specific solutions for the issue like the BHI does, I will highlight specific areas of Seattle that may be of interest in order to put the plan into action.
     <br>
 
 2)  [Challenge Seattle](https://challengeseattle.com/affordable-housing#:~:text=In%202019%2C%20Challenge%20Seattle%20hired,were%20burdened%20by%20housing%20costs.)
