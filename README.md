@@ -41,7 +41,6 @@ Second Data Source: [Affordable Housing Data](https://data-wa-geoservices.openda
    <br>
        - One way my project will differ will be through a more specific look at Seattle's census tracts as the map of Challenge Seattle looks at broader, state-wide county data.
     
-   <br>
 3. [Daily UW](https://www.dailyuw.com/opinion/a-portrait-of-seattle-s-affordable-housing-crisis/article_614476ca-f2e6-11ed-a992-e7ce3f1a9368.html)
     <br>
         - The Daily UW wrote this amazing article on insane rent costs in Seattle that inspired me for this project. Much like this article, I plan to address the public interest of the issue.
