@@ -37,7 +37,7 @@ Second Data Source: [Affordable Housing Data](https://data-wa-geoservices.openda
     
 2. [Challenge Seattle](https://challengeseattle.com/affordable-housing#:~:text=In%202019%2C%20Challenge%20Seattle%20hired,were%20burdened%20by%20housing%20costs.)
     <br>
-        * Challenge Seattle is an initiative that looks at the affordable housing crisis and makes use of different visualizations to convey their data, much like I plan to do with my project.
+        *  Challenge Seattle is an initiative that looks at the affordable housing crisis and makes use of different visualizations to convey their data, much like I plan to do with my project.
     <br>
         * One way my project will differ will be through a more specific look at Seattle's census tracts as the map of Challenge Seattle looks at broader, state-wide county data.
     <br>
