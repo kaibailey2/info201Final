@@ -52,10 +52,9 @@ df$Ranking <- cut(df$Percentage, breaks = seq(min(valid_percentages), max(valid_
 
 # Summarization Dataframe (Based off of the Rankings and Black Population Percentage)
 
-summary_table <- df %>%
-  filter(!is.na(Ranking)) %>%
-  group_by(Ranking) %>%
-  summarize(Mean_Percentage_Black = mean(Percentage_Black, na.rm = TRUE))
+filtered_df <- filter(df, !is.na(Ranking))
+grouped_df <- group_by(filtered_df, Ranking)
+summary_table <- summarize(grouped_df, Mean_Percentage_Black = mean(Percentage_Black, na.rm = TRUE))
 
 # Visualization
 
