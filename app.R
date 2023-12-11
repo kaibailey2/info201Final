@@ -152,7 +152,6 @@ ui <- fluidPage(
                    # Add content for the sidebar here
                    HTML("<div><h2>Rankings Map</h2>
                           <ul>
-                            <p>This is a test to see how far out I can type</p>
                             <p>The Rankings Map uses the same color palette</p>
                             <p>from the previous tab to help visualize</p>
                             <p>how these rankings are spread out across</p>
