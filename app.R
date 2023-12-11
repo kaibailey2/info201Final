@@ -13,7 +13,7 @@ library(plotly)
 # Load your data
 df <- readRDS("data.rds")
 df$Ranking <- as.numeric(as.character(df$Ranking))
-summary <- readRDS("summary.rds")
+summary_table <- readRDS("summary.rds")
 
 # Define UI
 ui <- fluidPage(
